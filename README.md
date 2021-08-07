@@ -13,6 +13,9 @@ And now, I have to try and remember them all.  And write about what's important.
 
 
 # Safety and Resilience
+
+I hope to get around to deeply summarizing these books here, but in the mean time:  I've made some [contributions](https://github.com/lorin/resilience-engineering/commits?author=koleson) to Lorin Hochstein's extensive [Resilience engineering papers](https://github.com/lorin/resilience-engineering), which is a great jumping-off place for these topics.
+
 - Command and Control
 - The Challenger Launch Decision
 - Just Culture
